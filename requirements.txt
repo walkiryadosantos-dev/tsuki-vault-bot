@@ -1,6 +1,6 @@
-python-telegram-bot
+python-telegram-bot==21.6
 yt-dlp
 spotipy
 instaloader
 requests
-yt-dlp --upgrade
+snscrape
