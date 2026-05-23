@@ -3,4 +3,4 @@ yt-dlp
 spotipy
 instaloader
 requests
-snscrape
+ffmpeg-python
